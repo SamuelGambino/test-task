@@ -1,0 +1,24 @@
+{
+  "name": "test-task",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SamuelGambino/test-task.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SamuelGambino/test-task/issues"
+  },
+  "homepage": "https://github.com/SamuelGambino/test-task#readme",
+  "description": "",
+  "dependencies": {
+    "playwright": "^1.55.0"
+  }
+}
